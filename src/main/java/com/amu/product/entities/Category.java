@@ -1,6 +1,5 @@
-package com.amu.product.category;
+package com.amu.product.entities;
 
-import com.amu.product.entities.Product;
 import jakarta.persistence.*;
 import lombok.*;
 

@@ -1,6 +1,5 @@
 package com.amu.product.entities;
 
-import com.amu.product.category.Category;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
